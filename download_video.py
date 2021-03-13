@@ -19,5 +19,5 @@ else:
     print("Incorect choice: 1 for video and 2 for mp3")
 
 
-# stream_video = video.streams.get_highest_resolution()
-# stream_video.download()
+
+print("Done!")
