@@ -18,6 +18,4 @@ elif(download_mode == "2"):
 else:
     print("Incorect choice: 1 for video and 2 for mp3")
 
-
-
 print("Done!")
